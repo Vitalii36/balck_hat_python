@@ -1,5 +1,4 @@
 import socket
-import logging
 
 target_host = "www.google.com"
 target_port = 80
